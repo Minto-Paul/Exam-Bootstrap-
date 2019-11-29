@@ -1,0 +1,521 @@
+/*
+   Author
+
+   Name: Minto Paul;
+   Email: mintopaul1350@gmail.com;
+*/
+/*
+ 	====Index===
+	1.body
+	2.Header
+    3.HOME
+    4.HOW IT WORKS
+    5.DEVELOPER A PROJECT
+    6.BLOG
+    7.FIND OUT MORE
+
+*/
+
+/*Global CSS */
+body{
+	font-family: 'Roboto', sans-serif!important;
+	font-size: 18px!important;
+}
+#facilisis{
+    background-color: #fff!important;
+}
+#facilisis h1{
+	color: #515151;
+    font-size: 40px;
+    display: block;
+    
+    text-transform: uppercase;
+
+}
+#facilisis p{
+    font-size: 18px;
+    color: #a2a2a2;
+    margin-bottom: 25px;
+}
+
+h2{
+	font-size: 30px;
+	font-weight: bold;
+    
+
+} 	
+
+h3{
+	font-size: 24px;
+	font-weight: bold;
+	color: #31353e;
+    text-align: center;
+    padding-top: 35px;
+}
+
+h4{
+
+}
+
+p{
+  text-align: center;
+    font-size: 15px;
+}
+.facilisis-title{
+    width: 60%;
+}
+.ante-class{
+}
+.ante-title-1{
+background-color: #e2f8ff
+}
+.ante-title-2{
+    background-color: #f5f9eb;
+}
+.img-part{
+    width: 40%;
+    float: left;
+    margin-right: 100px;
+}
+.content-part{
+    width: 60%;
+    float: left;
+}
+.txt-part-1 h3{
+
+}
+.txt-part-1 p{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+li{
+	display: block;
+    text-align: center;
+    color: #fff;
+
+}
+.card-area{
+    padding-top: 80px;
+}
+.card p{
+    background-color: #f9f9f9;
+   
+}
+span img{
+    margin-right: 0px;
+}
+.card.card-img-top{
+
+    position: relative;
+}
+span.seperator{
+    background-color: #26a6d1;
+    width: 150px;
+    height: 30px;
+    padding: 5px;
+    color: #fff;
+    font-size: 16px;
+    position: absolute;
+    top: 30%;
+    right: 10px;
+    bottom: 20px;
+    text-align: center;
+}
+
+
+
+.ante-class{
+        background-color:#e2f8ff!important;
+}
+.ante-title{
+    
+    
+    font-family: 'Roboto Slab', serif;
+
+}
+.ante-class2{
+        background-color: #f5f9eb;
+}
+.ante-title2{
+    
+    
+    font-family: 'Roboto Slab', serif;
+
+}
+
+.part-1{
+
+}
+.part-2{
+    
+}
+.txt-part-1 {
+    text-align: center;
+
+}
+.txt-part-1 p{
+    color: #161616;
+
+}
+.btn-one-1{
+    background-color: #26a6d1;
+    color: #fff;
+    display: block;
+    margin: 75px auto 135px;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 15px 20px;
+    border-radius: 10px;
+    border: none;
+}
+.btn-one-2{
+    background-color: #add136;
+    color: #fff;
+    display: block;
+    margin: 75px auto 135px;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 15px 20px;
+    border-radius: 10px;
+    border: none;
+}
+.img-center{
+	display: block;
+	margin: 0px auto;
+}
+
+.no-padding{
+	padding: 0px;
+}
+
+/*Theme CSS */
+
+.nav-head{
+	background-color: #fff!important;
+	padding: 30px;
+}
+.nav-item{
+	
+}
+.nav-link {
+    color: #161616!important;
+    margin: 0px 5px;
+    font-size: 18!important;
+}
+.nav-link.js-scroll-trigger.active {
+    background-color: #bdbdbd;
+    color: #fff !important;
+    border-radius: 25px;
+    padding: 8px 30px;
+}
+.fa.fa-th{
+    background-color: #797474;
+    font-size: 25px;
+}
+
+
+/*Hero Section*/
+
+.hero{
+	background: -webkit-linear-gradient(#c7cdc6, rgb(48, 58, 79,0.1)), url("../img/bg.png") no-repeat center;
+    
+	background-size: cover;
+	font-family: 'Roboto Slab', serif!important;
+}
+.hero-title{
+	text-align: center;
+    padding-top: 140px;
+    padding-bottom: 30px;
+    
+}
+.food-div{
+
+}
+.food-item{
+	text-align: center;
+}
+.hero h2 {
+    font-size: 49px;
+    color: #fff;
+    
+}
+.hero p {
+    color: #fff;
+    text-align: center;
+}
+.hero h4{
+	 text-align: center;
+	font-size: 30px;
+	color: #fff;
+}
+.hero h6{
+	font-size: 15px;
+	color: #fff;
+}
+.btn-one{
+    background-color: #99c50a;
+    color: #fff;
+    display: block;
+    margin: 75px auto 135px;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 50px;
+    border-radius: 10px;
+    border: none;
+}
+
+
+
+/*Facilisis at Section*/
+
+.facilisis-title {
+	text-align: center;
+}
+.facilisis-title h1{
+	color: #31353e;
+    font-size: 30px;
+    display: block;
+    margin: 0px auto;
+    font-weight: bold;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.bg-light p{
+
+}
+.btn-two{
+   background-color: #ffffff;
+    color: #161616;
+    display: block;
+    margin: 30px auto 100px;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 15px 50px;
+    border-radius: 50px;
+    border: none;
+}
+
+/*Ante donec at Section*/
+.ante-class{
+	background: url(../img/bg-2.png)no-repeat;
+	background-size: cover;
+}
+.ante-title{
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+
+}
+
+
+
+.btn-three {
+    background-color: #ffffff;
+    color: #612316;
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 9px 50px;
+    border-radius: 50px;
+    border: none;
+    position: absolute;
+    top: 73%;
+    right: 0%;
+}
+
+.btn-feature{
+    background:transparent;
+    color: #bdbdbd;
+    
+    font-size: 18px;
+    
+    padding: 2px 20px;
+    border-radius: 5px;
+    border: 1px solid #bdbdbd;
+}
+/*Blandit rhoncus at Section*/
+.blan{
+
+}
+
+.blan-title{
+		text-align: center;
+		
+}
+.blan-title h5{
+	font-size: 16px;
+	font-weight: 200!important;
+	text-align: left;
+	padding-top: 25px;
+	
+	
+}
+.blan-title h4{
+	font-size: 16px;
+	font-weight: 200!important;
+	text-align: left;
+	padding-top: 25px;
+
+}
+.btn-four{
+	background-color: #dd4b2b;
+    color: #fff;
+    display: block;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 9px 50px;
+    border-radius: 50px;
+    border: none;
+}
+.blan-img{
+	border-width:5px;  
+    border-style:solid;
+    border-color: #DCCAD4;
+
+}
+.blan-title h1{
+	color: #31353e;
+    font-size: 30px;
+    margin: 0px auto;
+    font-weight: bold;
+    float: left;
+}
+.blan-title-2{
+	padding-top: 40px;
+
+}
+.food-img-2{
+	border-width:5px;  
+    border-style:solid;
+    border-color: #DCCAD4;
+
+}
+.blan-text{
+	padding-top: 40px;
+}
+.blan-text h5{
+	font-size: 16px;
+	font-weight: 200!important;
+	text-align: left;
+	padding-top: 25px;
+}
+.btn-prl{
+	background-color: #4b4e73;
+    color: #fff;
+    display: block;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 9px 50px;
+    border-radius: 50px;
+    border: none;
+}
+
+
+
+.place{
+	
+	text-align: center;
+    border:2px solid #ddd;
+    padding: 0px;
+}
+.place h6{
+    padding-top: 30px;
+}
+
+
+}
+.foot-img {
+    
+    color: red;
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 9px 50px;
+        padding-top: 9px;
+        padding-bottom: 9px;
+    border-radius: 50px;
+    border: none;
+    position: absolute;
+    top: 76%;
+    right: 0%;
+}
+/*mobile divice starts*/
+
+@media(min-width:0px)and (max-width: 500px){
+	
+.hero h2 {
+    font-size: 30px;
+    color: #fff;
+}
+#facilisis h1{
+    font-size: 30px;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0px auto;
+}
+.blan-title {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.btn-three {
+    background-color: #ffffff;
+    color: #612316;
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 9px 50px;
+    border-radius: 50px;
+    border: none;
+    position: absolute;
+    top: 76%;
+    right: 0%;
+}
+.btn-four {
+    background-color: #dd4b2b;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 9px 50px;
+    border-radius: 50px;
+    margin: 0px 75px;
+    border: none;
+}
+.btn-prl {
+    background-color: #4b4e73;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 9px 50px;
+    border-radius: 50px;
+    border: none;
+    margin: 0px 75px;
+}
+.blan-title h4 {
+    font-size: 16px;
+    font-weight: 200!important;
+    text-align: left;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+.blan-text h5 {
+    font-size: 16px;
+    font-weight: 200!important;
+    text-align: left;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+.card-area img{
+   
+    display: block;
+}
+h6.card-subtitle{
+    margin-left:  0px;
+}
+
+}
+	/*mobile divice ends*/
